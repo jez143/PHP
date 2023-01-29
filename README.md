@@ -1,2 +1,2 @@
 # PHP
-#creating a database connnection
+# creating a database connnection
